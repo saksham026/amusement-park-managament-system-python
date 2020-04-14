@@ -1,0 +1,65 @@
+([('amusement_park.exe',
+   'D:\\sa\\build\\amusement_park\\amusement_park.exe',
+   'EXECUTABLE'),
+  ('amusement_park.exe.manifest',
+   'D:\\sa\\build\\amusement_park\\amusement_park.exe.manifest',
+   'BINARY'),
+  ('python36.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\python36.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_ssl',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_tkinter',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('tk86t.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\tk86t.dll',
+   'BINARY'),
+  ('tcl86t.dll',
+   'c:\\program files (x86)\\microsoft visual '
+   'studio\\shared\\python36_64\\DLLs\\tcl86t.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\sa\\build\\amusement_park\\base_library.zip',
+   'DATA')],)
